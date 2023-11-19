@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog
 
-I love ame-chan <3
+**I love ame-chan <3**
 ---
 
